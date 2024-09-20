@@ -1,0 +1,24 @@
+K3ST-Innovates-Digitally/
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── encryption.py
+│   ├── licensing.py
+│   ├── registration.py
+│   ├── branding.py
+│   ├── patents.py
+│   ├── financials.py
+│   ├── ethics.py
+│   ├── static/
+│   │   ├── css/
+│   │   │   └── styles.css
+│   │   └── js/
+│   │       └── scripts.js
+│   ├── templates/
+│   │   └── index.html
+└── lambda/
+    ├── lambda_function.py
+    └── requirements.txt
