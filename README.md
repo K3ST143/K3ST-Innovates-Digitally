@@ -20,5 +20,5 @@ K3ST Innovates Digitally (KID) is a platform designed to empower creators, innov
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/K3ST-Innovates-Digitally.git
+   git clone https://github.com/K3ST143/K3ST-Innovates-Digitally.git
    cd K3ST-Innovates-Digitally
